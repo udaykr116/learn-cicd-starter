@@ -27,5 +27,5 @@ Uday's version of Boot.dev's Notely app.
 
 
 
-![badge.svg](https://github.com/udayjr116/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
+![/badge.svg](https://github.com/udayjr116/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
 )
